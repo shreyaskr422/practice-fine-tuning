@@ -2,11 +2,6 @@
 
 Minimalist toolkit for efficient LLM adaptation using PEFT, LoRA, and QLoRA.
 
-![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=flat-square)
-
----
 
 ## ⚡ Features
 - **Efficient Tuning:** Implementation of LoRA & QLoRA via `peft`.
